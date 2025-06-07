@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 上传箭头 -->
+    <path d="M32 8L32 40M32 8L20 20M32 8L44 20" stroke="#007AFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- 底部线条 -->
+    <path d="M12 40L12 52H52V40" stroke="#007AFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg> 
